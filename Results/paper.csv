@@ -1,0 +1,64 @@
+tools,Has research paper
+ayong8/FairSight,yes
+KenSciResearch/fairMLHealth,no
+INSPIRED-GMU/fairkit-learn,yes
+equialgo/fairness-in-ml,yes
+AI-secure/DecodingTrust,yes
+oracle/guardian-ai,no
+AI4LIFE-GROUP/OpenXAI,yes
+cakiki/ml-fairness-validity,no
+google/ml-fairness-gym,yes
+JohnSnowLabs/langtest,yes
+kozodoi/fairness,no
+EthicalML/xai,no
+"microsoft/responsible-ai-toolbox",no
+ashryaagr/Fairness.jl,no
+ModelOriented/fairmodels,yes
+ResponsiblyAI/responsibly,no
+vanderschaarlab/synthcity,yes
+thu-coai/cotk,yes
+wearepal/EthicML,no
+Giskard-AI / giskard,no
+dccuchile / wefe,yes
+microsoft / SafeNLP,yes
+firmai / ml-fairness-framework,yes
+aws / amazon-sagemaker-clarify,yes
+IBM / inFairness,no
+pliang279/sent_debias,yes
+deel-ai/influenciae,yes
+credo-ai / credoai_lens,yes
+matloff/EDFfair,yes
+KCachel/fairranktune,no
+fairpan,yes
+microsoft / responsible-ai-toolbox-genbit,no
+ClearExplanationsAI/CLEAR,yes
+dbountouridis/siren,yes
+mlr-org/mcboost,yes
+cylynx / verifyml,no
+oracle-samples / automlx,no
+adebayoj/fairml,no
+columbia/fairtest,yes
+FAIR4HEP/FAIR4HEP-Toolkit,no
+barcoopensource / vivaldy-ai-analysis-dashboard,yes
+Teddyzander/FairR,no
+hannanabdul55/seldonian-fairness,yes
+aida-ugent/fairret,yes
+Telefonica/XAIoGraphs,no
+kamyabnazari/fair-energy-ai,no
+sethneel/GerryFair,yes
+umang-garg21/Fair-MisGAIN,no
+martinetoering/Embetter,yes
+brandeis-machine-learning/FairPy,no
+Facebook Fairness Flow,
+dssg/aequitas,yes
+cosmicBboy/themis-ml,yes
+Trusted-AI/AIF360,yes
+drivendataorg/deon,no
+fairlearn/fairlearn,yes
+fat-forensics/fat-forensics,yes
+meelgroup/justicia,yes
+linkedin/LiFT,yes
+pymetrics/audit-ai,yes
+Tizpaz/Parfait-ML,yes
+PAIR-code/what-if-tool,yes
+tensorflow/fairness-indicators,no

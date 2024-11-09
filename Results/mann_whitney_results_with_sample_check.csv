@@ -1,0 +1,14 @@
+Parameter,Active Group Size,FSE Group Size,U Statistic,p-value,Significant
+Repository,0,0,,,Insufficient Data
+Forks,20,36,462.0,0.08190281099326947,False
+Total Issues,20,36,520.5,0.0061637745891899645,True
+Closed Issues,20,36,526.5,0.004422592573693705,True
+Open PRs,20,36,484.5,0.02411384560707263,True
+Closed PRs,20,36,519.5,0.006248512485002929,True
+Merged PRs,20,36,535.5,0.002535064612825495,True
+Total Commits,20,36,536.5,0.0026138094485046773,True
+Max Days Without Commit,20,36,331.0,0.62599400141891,False
+Most Active Dev Commits,20,36,487.0,0.030510417771875124,True
+Contributors,20,36,563.5,0.0004693151207544065,True
+Owner Projects,20,36,382.5,0.48341459274993925,False
+Owner Commits,20,36,269.5,0.05861887660940861,False
